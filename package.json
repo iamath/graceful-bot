@@ -1,0 +1,13 @@
+{
+  "name": "lindo-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "iamath <sudo.iamath@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^2.2.11"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
