@@ -3,7 +3,6 @@ module.exports = [
   'You’re very pretty',
   'You look as pretty as always',
   'You’re so adorable',
-  'You look drop dead gorgeous',
   'You have the most beautiful eyes',
   'I think you’re very attractive',
   'Wow, you’re gorgeous',
